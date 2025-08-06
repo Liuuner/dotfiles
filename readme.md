@@ -1,3 +1,5 @@
+used with https://github.com/rhysd/dotfiles
+
 ### TODO
  - `xterm` profile color scheme
  - fix Mountain-Grub using simlink
